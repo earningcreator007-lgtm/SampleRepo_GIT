@@ -1,1 +1,1 @@
-print("Sample Repo Test")
+print("Sample Test")
